@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Kubernetes.
 
 ## Github stats 
-[![Elichen's GitHub stats](https://github-readme-stats.vercel.app/api?username=elichen95&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Elichen's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliChen95&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Stacks
 
