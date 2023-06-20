@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working on [QingCloud](https://www.qingcloud.com/).
 - 🌱 I’m currently learning Kubernetes.
-
+<!--
 ## Github stats 
 [![Elichen's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliChen95&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 ## My Stacks
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
